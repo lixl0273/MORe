@@ -18,6 +18,8 @@ All MORe model, inference, dataset-loading and historical evaluation **source co
 
 **Not included:** raw facial videos/images, original or processed facial images, optical-flow data, facial-region matrices, original dataset annotations, individual checkpoint weights, user directories, usernames, server paths, private logs, or sample-level predictions. Data and checkpoint files must be obtained separately and lawfully by the user. A repository without these inputs cannot produce the numerical results; "standalone" means no missing project code, not that confidential data is embedded.
 
+Just alone, Data and Checkpoints download:  https://pan.baidu.com/s/1NkwzthuJnJNGZyfGQXUpzg?pwd=49qf 
+
 ## Inputs expected at runtime
 
 Pass `--data-root` to a local prepared dataset directory containing:
